@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iliall)" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=iliall=true&show_icons=true&theme=prussian" width="400">
 </div>
 ...badges...
 
