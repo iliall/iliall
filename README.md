@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-./README.md
-...banner image...
+<div style="text-align: center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wsfuller&count_private=true&show_icons=true&theme=prussian" width="400">
+<br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsfuller&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</div>
+...badges...
+
 #### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -11,6 +16,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
 
 <!--
