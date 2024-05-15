@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![Snake animation](https://github.com/iliall/iliall/blob/output/github-contribution-grid-snake.svg)
-
-![Codeforces Stats](https://github.com/iliall/cf-stats/blob/main/output/light_card.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/iliall/iliall/blob/main/github-contribution-grid-snake-dark.svg)
 
 
 #### Languages:
