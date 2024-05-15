@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Snake animation](https://github.com/iliall/iliall/blob/output/github-contribution-grid-snake.svg)
+
+![Codeforces Stats](https://github.com/iliall/cf-stats/blob/main/output/light_card.svg#gh-dark-mode-only)
+
 
 #### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
