@@ -1,9 +1,4 @@
 ### Hi there 👋
-I am now pursuing a bachelor's degree in computer science at the University of Waterloo. My academic background includes a good foundation in mathematics, as proven by a silver medal from the National Mathematics Olympiad, as well as one year of work as a data scientist.
-
-My professional career began with a position as a Data Scientist Intern, eventually advancing to an Intermediate Data Scientist at a startup. This role not only honed my analytical skills but also sharpened my abilities in communication and teamwork. During this time, I co-authored a paper titled "Building Trustworthy Generative AI for Diabetes Care" published in the Journal of Diabetes Science and Technology. This experience ignited my passion for research and the application of AI in healthcare.
-
-My professional career began with a position as a Data Scientist Intern, eventually advancing to an Intermediate Data Scientist at a startup. This role not only honed my analytical skills but also sharpened my abilities in communication and teamwork. During this time, I co-authored a paper titled "Building Trustworthy Generative AI for Diabetes Care" published in the Journal of Diabetes Science and Technology. This experience ignited my passion for research and the application of AI in healthcare.
 
 ### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
